@@ -58,7 +58,6 @@ Instead of hard segment boundaries, customers were scored for each perk, and the
      -   Free Hotel Meal attracted group travelers and families
      -   Free Checked Bag was popular among frequent long-distance travelers
      -   Travel Insurance catered to risk-averse, forward planners
-     -   
 - Behavior-Driven Segmentation: Weighted indices based on travel metrics (e.g., trip frequency, hotel bookings) effectively segmented customers, aligning perks with travel behaviors. Making use of the advantages of fuzzy segmentation.
 
 
