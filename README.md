@@ -5,6 +5,7 @@
 As the project used plotly library for final visualisation and dashboard design, the notebook needs to be run as a Google Colab or Jupyter file.  Download the repository for execution.
 
 
+👀 Check my charming video presentation [Let'd dive into TravelTides reward program!](https://www.canva.com/design/DAGQLdvNT-g/AIceGYvIf4D6-Bqt3Ubxyw/view?utm_content=DAGQLdvNT-g&utm_campaign=designshare&utm_medium=link&utm_source=recording_view)
 
 ## Objective:
 The objective of this project is to leverage customer data and advanced segmentation techniques to design and optimize a personalized loyalty perk system for TravelTide. By utilizing fuzzy segmentation, the project aims to better understand customer behaviors and preferences, driving app retention and brand loyalty. 
