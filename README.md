@@ -13,14 +13,17 @@ The objective of this project is to leverage customer data and advanced segmenta
 This project focuses on segmenting TravelTide's customer base using data-driven insights to design relevant perks tailored to distinct traveler personas. The analysis explores customer spending patterns, trip length, and preferences to create a flexible perk distribution model. A comprehensive A/B testing strategy was proposed to validate the effectiveness of these perks, while also addressing key travel behavior metrics, including seasonality and booking gaps. 
 
 ## Data
-The dataset was extracted from TravelTide's internal booking database and enriched through feature engineering. Key features include traveler demographics, trip details or spending habits The final aggregated user table dataset (including feature engineering) is available for download as a CSV file to ensure project accessibility for future Data Analytics projects.
+The dataset was extracted from TravelTide's internal booking database and enriched through feature engineering. Key features include traveler demographics, trip details, or spending habits The final aggregated user table dataset (including feature engineering) is available for download as a CSV file to ensure project accessibility for future Data Analytics projects.
 
 ## Usage: Running the Notebook
 To run the notebook, simply clone this repository, install the required dependencies, and execute the code cells in order. The notebook covers the entire analysis pipeline, from data extraction and feature engineering to visualization and model building.
 
+Feel free to access the virtual notebook directly through the link: [ traveltide_notebook.ipynb](https://colab.research.google.com/drive/1GTus1srq_ToAVhMVkgbja-_LMUHAHOrQ?usp=sharing)
+
+
 ## Key Tasks of Analysis: Customer Segmentation (Technical Deep Dive)
 
-In this project, customer segmentation was performed using a combination of SQL for building up relevant analysis metrics (feature engineerung( and  Pandas for data manipulation, indexing techniques, correlation analysis, and later fuzzy segmentation to allocate customers into specific loyalty perk groups. 
+In this project, customer segmentation was performed using a combination of SQL for building up relevant analysis metrics (feature engineering) and  Pandas for data manipulation, indexing techniques, correlation analysis, and later fuzzy segmentation to allocate customers into specific loyalty perk groups. 
 Here's a breakdown of the approach:
 
 **1. Data Preparation and Feature Engineering**: Using SQL and covering session-, booking- and travel-level metrics
