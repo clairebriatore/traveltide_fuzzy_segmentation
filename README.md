@@ -1,6 +1,10 @@
 # TravelTide Project: Segmenting Customer Behavior with Fuzzy Segmentation 
 ## Building up a data-driven loyalty program
 
+❗ **Important Notice**
+As the project used plotly library for final visualisation and dashboard design, the notebook needs to be run as a Google Colab or Jupyter file.  Download the repository for execution.
+
+
 
 ## Objective:
 The objective of this project is to leverage customer data and advanced segmentation techniques to design and optimize a personalized loyalty perk system for TravelTide. By utilizing fuzzy segmentation, the project aims to better understand customer behaviors and preferences, driving app retention and brand loyalty. 
