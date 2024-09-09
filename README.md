@@ -46,7 +46,6 @@ Instead of hard segment boundaries, customers were scored for each perk, and the
 
 ## Key Findings Summary
 - Balanced Distribution Across Perks: The customer distribution across perks was well-balanced, ensuring that no single perk dominates user engagement. This diversification allows for targeted marketing strategies across segments
-- 
 - Distinct Segment Appeal: Each perk resonated with specific user behaviors
      -   Free Hotel Meal attracted group travelers and families
      -   Free Checked Bag was popular among frequent long-distance travelers
